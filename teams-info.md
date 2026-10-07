@@ -20,7 +20,7 @@
 
 
 ## Team 4: Modulo Asignaturas/Materias
-
+1. Alan Uribe Hernandez
 
 
 
